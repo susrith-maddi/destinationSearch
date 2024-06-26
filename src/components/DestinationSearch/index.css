@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.destinationSearch {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search-img {
+  height: 30px;
+  width: 30px;
+}
+.search{
+  display: flex;
+  flex-direction: row;
+}
